@@ -4,6 +4,9 @@
 # 比赛链接
 https://www.kesci.com/home/competition/5ece30cc73a1b3002c9f1bf5/content
 
+# 线上成绩
+线上成绩为0.776。
+
 # 参考baseline
 https://github.com/Wslsdx/xwbank2020_baseline_pytorch
 
